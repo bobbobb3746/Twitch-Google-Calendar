@@ -1,6 +1,8 @@
 # Twitch-Google-Calendar
 Collects the twitch schedules of streamers and enters them as events in a google calendar
 
+*I realize this is very janky and cobbled together code, you have no obligation to run this code on your computer*
+
 # Setup
 ## Twitch Authorization
 1) Login to your twitch console
