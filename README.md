@@ -9,8 +9,8 @@ Collects the twitch schedules of streamers and enters them as events in a google
 4) For category, select "other"
 5) Copy client id and client secret into a json file
 `{
-`    "client_id":"your client id here",
-`    "client_secret":"your client secret here"
+````"client_id":"your client id here",
+````"client_secret":"your client secret here"
 `}
 6) Save
 
