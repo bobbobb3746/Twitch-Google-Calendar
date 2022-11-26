@@ -11,7 +11,7 @@ Collects the twitch schedules of streamers and enters them as events in a google
 `{
 "client_id":"your client id here",
 "client_secret":"your client secret here"
-`}
+}`
 6) Save
 
 ## Google API
