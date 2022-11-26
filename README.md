@@ -18,12 +18,12 @@ example: `{"client_id":"your client id here","client_secret":"your client secret
 example: `{"streamers":["streamer name 1","streamer name 2", "streamer name 3"]}`
 
 ## Google API
-7) Go to [Google Python Quickstart](https://developers.google.com/calendar/api/quickstart/python) and follow the instructions
-8) Copy the credentials.json file into the same folder as this project
+8) Go to [Google Python Quickstart](https://developers.google.com/calendar/api/quickstart/python) and follow the instructions
+9) Copy the credentials.json file into the same folder as this project
 
 ## Google Calendar
-9)  Create or choose the google calendar you want the program to put the stream events and click on the 3 dots next to and click "Settings and sharing"
-10) Scroll down to "Integrate Calendar" and copy the calendar id into a json file similar to the format shown above named "google_secrets.json"
+10)  Create or choose the google calendar you want the program to put the stream events and click on the 3 dots next to and click "Settings and sharing"
+11) Scroll down to "Integrate Calendar" and copy the calendar id into a json file similar to the format shown above named "google_secrets.json"
 example: `{"google_secret":"you calendar id here"}`
 
-10) Done
+12) Done
