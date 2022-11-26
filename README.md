@@ -10,9 +10,9 @@ Collects the twitch schedules of streamers and enters them as events in a google
 3) Name "Twitch Schedule Consolidator" recommended but enter whatever you want so that you remember what this is when you look at this later in the future
 4) For category, select "other"
 5) Copy client id and client secret into a json file
-`{
-"client_id":"your client id here",
-"client_secret":"your client secret here"
+`{\n
+"client_id":"your client id here",\n
+"client_secret":"your client secret here"\n
 }`
 6) Save
 
@@ -20,4 +20,11 @@ Collects the twitch schedules of streamers and enters them as events in a google
 7) Go to [Google Python Quickstart](https://developers.google.com/calendar/api/quickstart/python) and follow the instructions
 8) Copy the credentials.json file into the same folder as this project
 
-9) Done
+## Google Calendar
+9)  Create or choose the google calendar you want the program to put the stream events and click on the 3 dots next to and click "Settings and sharing"
+10) Scroll down to "Integrate Calendar" and copy the calendar id into a json file similar to the format shown above
+`{\n
+"google_secret":"you calendar id here"\n
+}`
+
+10) Done
